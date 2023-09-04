@@ -1,0 +1,20 @@
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.5.1-0 C:\Users\irshadali\.gradle\caches\transforms-3\186582eb25f22e48a489eae1ef23f6f8\transformed\lifecycle-viewmodel-2.5.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.5.1-1 C:\Users\irshadali\.gradle\caches\transforms-3\25bbfc0b0762a229747d38a10e6a4570\transformed\lifecycle-livedata-core-2.5.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.0-2 C:\Users\irshadali\.gradle\caches\transforms-3\334605bd53b3f154c86ef2bb2958d00b\transformed\jetified-savedstate-1.2.0\res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.9.0-3 C:\Users\irshadali\.gradle\caches\transforms-3\4b8b32f8174d4e4af41b5641df3ddd97\transformed\core-1.9.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-4 C:\Users\irshadali\.gradle\caches\transforms-3\7ed7930034b290a177756334372f834a\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.6.1-5 C:\Users\irshadali\.gradle\caches\transforms-3\9458aceebb31fed5ceda02f915940a21\transformed\jetified-activity-1.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.3.0-6 C:\Users\irshadali\.gradle\caches\transforms-3\970780e1fce4569de4393f7dc06e3db5\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.5.1-7 C:\Users\irshadali\.gradle\caches\transforms-3\a552146089cbbba2a066f7a6bfd1ab4b\transformed\lifecycle-runtime-2.5.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.5.1-8 C:\Users\irshadali\.gradle\caches\transforms-3\adb4029a70580f5294373db080390f75\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.9.0-9 C:\Users\irshadali\.gradle\caches\transforms-3\ea963159c9b7e257ec5540f20ecb228e\transformed\jetified-core-ktx-1.9.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-10 C:\Users\irshadali\.gradle\caches\transforms-3\ef4b16e1f298f8945864de407ffa0252\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-main-11 C:\Users\irshadali\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.6+11\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker_android-release-12 C:\Users\irshadali\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.6+11\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-13 C:\Users\irshadali\flutter projects\vote_ballot\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-14 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-15 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker_android-rs-16 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-17 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-18 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-19 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\intermediates\merged_res\release

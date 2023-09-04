@@ -1,0 +1,31 @@
+com.example.vote_ballot.app-jetified-play-services-base-18.1.0-0 C:\Users\irshadali\.gradle\caches\transforms-3\1042029026203f516d64f0538993a6f9\transformed\jetified-play-services-base-18.1.0\res
+com.example.vote_ballot.app-lifecycle-viewmodel-2.5.1-1 C:\Users\irshadali\.gradle\caches\transforms-3\186582eb25f22e48a489eae1ef23f6f8\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.vote_ballot.app-lifecycle-livedata-core-2.5.1-2 C:\Users\irshadali\.gradle\caches\transforms-3\25bbfc0b0762a229747d38a10e6a4570\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.vote_ballot.app-jetified-savedstate-1.2.0-3 C:\Users\irshadali\.gradle\caches\transforms-3\334605bd53b3f154c86ef2bb2958d00b\transformed\jetified-savedstate-1.2.0\res
+com.example.vote_ballot.app-core-1.9.0-4 C:\Users\irshadali\.gradle\caches\transforms-3\4b8b32f8174d4e4af41b5641df3ddd97\transformed\core-1.9.0\res
+com.example.vote_ballot.app-jetified-window-java-1.0.0-beta04-5 C:\Users\irshadali\.gradle\caches\transforms-3\7ed7930034b290a177756334372f834a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.vote_ballot.app-jetified-activity-1.6.1-6 C:\Users\irshadali\.gradle\caches\transforms-3\9458aceebb31fed5ceda02f915940a21\transformed\jetified-activity-1.6.1\res
+com.example.vote_ballot.app-jetified-play-services-basement-18.1.0-7 C:\Users\irshadali\.gradle\caches\transforms-3\94e0953be71aa4702eb39cb70f3c10cb\transformed\jetified-play-services-basement-18.1.0\res
+com.example.vote_ballot.app-jetified-annotation-experimental-1.3.0-8 C:\Users\irshadali\.gradle\caches\transforms-3\970780e1fce4569de4393f7dc06e3db5\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.vote_ballot.app-lifecycle-runtime-2.5.1-9 C:\Users\irshadali\.gradle\caches\transforms-3\a552146089cbbba2a066f7a6bfd1ab4b\transformed\lifecycle-runtime-2.5.1\res
+com.example.vote_ballot.app-jetified-firebase-common-20.3.2-10 C:\Users\irshadali\.gradle\caches\transforms-3\a573953daf2b254e80c8214bc2d8043b\transformed\jetified-firebase-common-20.3.2\res
+com.example.vote_ballot.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\irshadali\.gradle\caches\transforms-3\adb4029a70580f5294373db080390f75\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.vote_ballot.app-jetified-core-ktx-1.9.0-12 C:\Users\irshadali\.gradle\caches\transforms-3\ea963159c9b7e257ec5540f20ecb228e\transformed\jetified-core-ktx-1.9.0\res
+com.example.vote_ballot.app-jetified-window-1.0.0-beta04-13 C:\Users\irshadali\.gradle\caches\transforms-3\ef4b16e1f298f8945864de407ffa0252\transformed\jetified-window-1.0.0-beta04\res
+com.example.vote_ballot.app-main-14 C:\Users\irshadali\flutter projects\vote_ballot\android\app\src\main\res
+com.example.vote_ballot.app-release-15 C:\Users\irshadali\flutter projects\vote_ballot\android\app\src\release\res
+com.example.vote_ballot.app-google-services-16 C:\Users\irshadali\flutter projects\vote_ballot\build\app\generated\res\google-services\release
+com.example.vote_ballot.app-pngs-17 C:\Users\irshadali\flutter projects\vote_ballot\build\app\generated\res\pngs\release
+com.example.vote_ballot.app-resValues-18 C:\Users\irshadali\flutter projects\vote_ballot\build\app\generated\res\resValues\release
+com.example.vote_ballot.app-rs-19 C:\Users\irshadali\flutter projects\vote_ballot\build\app\generated\res\rs\release
+com.example.vote_ballot.app-mergeReleaseResources-20 C:\Users\irshadali\flutter projects\vote_ballot\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.vote_ballot.app-mergeReleaseResources-21 C:\Users\irshadali\flutter projects\vote_ballot\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.vote_ballot.app-merged_res-22 C:\Users\irshadali\flutter projects\vote_ballot\build\app\intermediates\merged_res\release
+com.example.vote_ballot.app-packaged_res-23 C:\Users\irshadali\flutter projects\vote_ballot\build\audioplayers_android\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-24 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_core\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-25 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_database\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-26 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-27 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_storage\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-28 C:\Users\irshadali\flutter projects\vote_ballot\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-29 C:\Users\irshadali\flutter projects\vote_ballot\build\image_picker_android\intermediates\packaged_res\release
+com.example.vote_ballot.app-packaged_res-30 C:\Users\irshadali\flutter projects\vote_ballot\build\path_provider_android\intermediates\packaged_res\release

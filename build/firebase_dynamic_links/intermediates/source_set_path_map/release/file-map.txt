@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-play-services-base-18.0.1-0 C:\Users\irshadali\.gradle\caches\transforms-3\014df84f8672222cd4f867f8d54729a5\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-core-1.6.0-1 C:\Users\irshadali\.gradle\caches\transforms-3\210977a7e8397527af0fbbe57c0d1009\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-window-java-1.0.0-beta04-2 C:\Users\irshadali\.gradle\caches\transforms-3\7ed7930034b290a177756334372f834a\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-play-services-basement-18.1.0-3 C:\Users\irshadali\.gradle\caches\transforms-3\94e0953be71aa4702eb39cb70f3c10cb\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-firebase-common-20.3.2-4 C:\Users\irshadali\.gradle\caches\transforms-3\a573953daf2b254e80c8214bc2d8043b\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-window-1.0.0-beta04-5 C:\Users\irshadali\.gradle\caches\transforms-3\ef4b16e1f298f8945864de407ffa0252\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-jetified-annotation-experimental-1.1.0-6 C:\Users\irshadali\.gradle\caches\transforms-3\ff2087e952fd79607550e8bf0bdf986a\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-main-7 C:\Users\irshadali\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_dynamic_links-5.2.0\android\src\main\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-release-8 C:\Users\irshadali\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_dynamic_links-5.2.0\android\src\release\res
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-packaged_res-9 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-pngs-10 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\generated\res\pngs\release
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-resValues-11 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\generated\res\resValues\release
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-rs-12 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\generated\res\rs\release
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-mergeReleaseResources-13 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-mergeReleaseResources-14 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.dynamiclinks.firebase_dynamic_links-merged_res-15 C:\Users\irshadali\flutter projects\vote_ballot\build\firebase_dynamic_links\intermediates\merged_res\release
